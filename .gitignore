@@ -1,0 +1,9 @@
+node_modules/
+.env
+*.mp3
+client/package-lock.json
+*.env
+*.mp3
+
+package-lock.json
+client/package-lock.json
